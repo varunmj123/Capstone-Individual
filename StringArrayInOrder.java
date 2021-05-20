@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class StringArrayInOrder {
    public static void main(String args[]) {
-      String[] myArray = {"1", "33", "4", "7", "23", "232"};
+      String[] myArray = {"Varun", "Mohan", "Jha", "Capstone", "Indivdual1", "Project"};
       int size = myArray.length;
 
       for(int i = 0; i<size-1; i++) {
